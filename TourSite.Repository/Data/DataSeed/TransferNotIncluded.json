@@ -1,0 +1,50 @@
+[
+  {
+    "TransferId": 1,
+    "Text": "Tips for the driver are not included."
+  },
+  {
+    "TransferId": 1,
+    "Text": "Personal expenses during transfer are not included."
+  },
+  {
+    "TransferId": 2,
+    "Text": "Meals and drinks during shuttle trips are not included."
+  },
+  {
+    "TransferId": 2,
+    "Text": "Optional guided tours at stops are not included."
+  },
+  {
+    "TransferId": 3,
+    "Text": "Entrance fees to attractions are not included."
+  },
+  {
+    "TransferId": 3,
+    "Text": "Meals and drinks are not included."
+  },
+  {
+    "TransferId": 4,
+    "Text": "Snorkeling equipment rental is not included."
+  },
+  {
+    "TransferId": 4,
+    "Text": "Personal expenses are not included."
+  },
+  {
+    "TransferId": 5,
+    "Text": "Lunch or refreshments during the trip are not included."
+  },
+  {
+    "TransferId": 5,
+    "Text": "Optional activities at Dolphin House are not included."
+  },
+  {
+    "TransferId": 6,
+    "Text": "Drinks during desert safari BBQ are not included."
+  },
+  {
+    "TransferId": 6,
+    "Text": "Optional desert quad bike rides are not included."
+  }
+]

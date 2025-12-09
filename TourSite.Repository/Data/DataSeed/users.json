@@ -1,0 +1,17 @@
+[
+  {
+    "FullName": "Admin User",
+    "Email": "admin@tourism.com",
+    "IsActive": true
+  },
+  {
+    "FullName": "John Smith",
+    "Email": "john.smith@example.com",
+    "IsActive": true
+  },
+  {
+    "FullName": "Sara Ali",
+    "Email": "sara.ali@example.com",
+    "IsActive": true
+  }
+]

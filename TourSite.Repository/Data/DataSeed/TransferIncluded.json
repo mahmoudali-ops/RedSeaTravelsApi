@@ -1,0 +1,50 @@
+[
+  {
+    "TransferId": 1,
+    "Text": "Private air-conditioned vehicle for pickup."
+  },
+  {
+    "TransferId": 1,
+    "Text": "Professional driver service."
+  },
+  {
+    "TransferId": 2,
+    "Text": "Daily shuttle service from hotels to attractions."
+  },
+  {
+    "TransferId": 2,
+    "Text": "Comfortable and safe transportation."
+  },
+  {
+    "TransferId": 3,
+    "Text": "Boat ride included for Philae Temple visit."
+  },
+  {
+    "TransferId": 3,
+    "Text": "Professional driver with local knowledge."
+  },
+  {
+    "TransferId": 4,
+    "Text": "Hotel pickup and drop-off included."
+  },
+  {
+    "TransferId": 4,
+    "Text": "Air-conditioned vehicle."
+  },
+  {
+    "TransferId": 5,
+    "Text": "Comfortable transfer from hotel to Dolphin House."
+  },
+  {
+    "TransferId": 5,
+    "Text": "Driver available during the entire trip."
+  },
+  {
+    "TransferId": 6,
+    "Text": "Private transfer from Dubai Airport to desert camp."
+  },
+  {
+    "TransferId": 6,
+    "Text": "Experienced driver for safe transport."
+  }
+]

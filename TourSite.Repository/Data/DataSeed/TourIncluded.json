@@ -1,0 +1,50 @@
+[
+  {
+    "TourId": 9,
+    "Text": "Entrance fees to the Pyramids and the Sphinx."
+  },
+  {
+    "TourId": 8,
+    "Text": "Professional English-speaking guide."
+  },
+  {
+    "TourId": 7,
+    "Text": "Visit to Karnak Temple and Luxor Temple."
+  },
+  {
+    "TourId": 7,
+    "Text": "Transportation between East and West Bank."
+  },
+  {
+    "TourId": 6,
+    "Text": "Boat trip to Philae Temple."
+  },
+  {
+    "TourId": 5,
+    "Text": "Visit to the Nubian Village."
+  },
+  {
+    "TourId": 4,
+    "Text": "Snorkeling equipment included."
+  },
+  {
+    "TourId": 4,
+    "Text": "Professional snorkeling guide."
+  },
+  {
+    "TourId": 5,
+    "Text": "Swimming with dolphins."
+  },
+  {
+    "TourId": 5,
+    "Text": "Lunch on board."
+  },
+  {
+    "TourId": 6,
+    "Text": "Dune bashing experience."
+  },
+  {
+    "TourId": 6,
+    "Text": "BBQ dinner at desert camp."
+  }
+]

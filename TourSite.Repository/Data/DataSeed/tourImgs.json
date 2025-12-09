@@ -1,0 +1,86 @@
+[
+  {
+    "ReferenceName": "cairo-pyramids",
+    "Title": "Pyramids of Giza",
+    "ImageCarouselUrl": "images/tours/cairo/pyramids.jpg",
+    "IsActive": true,
+    "FK_TourId": 4
+  },
+  {
+    "ReferenceName": "cairo-museum",
+    "Title": "Egyptian Museum",
+    "ImageCarouselUrl": "images/tours/cairo/museum.jpg",
+    "IsActive": true,
+    "FK_TourId": 4
+  },
+  {
+    "ReferenceName": "luxor-karnak",
+    "Title": "Karnak Temple",
+    "ImageCarouselUrl": "images/tours/luxor/karnak.jpg",
+    "IsActive": true,
+    "FK_TourId": 5
+  },
+  {
+    "ReferenceName": "luxor-valley",
+    "Title": "Valley of the Kings",
+    "ImageCarouselUrl": "images/tours/luxor/valley.jpg",
+    "IsActive": true,
+    "FK_TourId": 5
+  },
+  {
+    "ReferenceName": "aswan-philae",
+    "Title": "Philae Temple",
+    "ImageCarouselUrl": "images/tours/aswan/philae.jpg",
+    "IsActive": true,
+    "FK_TourId": 6
+  },
+  {
+    "ReferenceName": "aswan-nubian",
+    "Title": "Nubian Village",
+    "ImageCarouselUrl": "images/tours/aswan/nubian.jpg",
+    "IsActive": true,
+    "FK_TourId": 6
+  },
+  {
+    "ReferenceName": "sharm-reef",
+    "Title": "Red Sea Coral Reef",
+    "ImageCarouselUrl": "images/tours/sharm/reef.jpg",
+    "IsActive": true,
+    "FK_TourId": 7
+  },
+  {
+    "ReferenceName": "sharm-snorkeling",
+    "Title": "Snorkeling Adventure",
+    "ImageCarouselUrl": "images/tours/sharm/snorkeling.jpg",
+    "IsActive": true,
+    "FK_TourId": 7
+  },
+  {
+    "ReferenceName": "hurghada-dolphin",
+    "Title": "Dolphin House",
+    "ImageCarouselUrl": "images/tours/hurghada/dolphin.jpg",
+    "IsActive": true,
+    "FK_TourId": 8
+  },
+  {
+    "ReferenceName": "hurghada-boat",
+    "Title": "Boat Trip",
+    "ImageCarouselUrl": "images/tours/hurghada/boat.jpg",
+    "IsActive": true,
+    "FK_TourId": 8
+  },
+  {
+    "ReferenceName": "dubai-safari",
+    "Title": "Desert Safari",
+    "ImageCarouselUrl": "images/tours/dubai/safari.jpg",
+    "IsActive": true,
+    "FK_TourId": 9
+  },
+  {
+    "ReferenceName": "dubai-bbq",
+    "Title": "BBQ Dinner",
+    "ImageCarouselUrl": "images/tours/dubai/bbq.jpg",
+    "IsActive": true,
+    "FK_TourId": 9
+  }
+]

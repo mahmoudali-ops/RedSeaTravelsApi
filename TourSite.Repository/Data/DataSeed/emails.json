@@ -1,0 +1,57 @@
+[
+  {
+    "AdultsNumber": 2,
+    "ChildernNumber": 1,
+    "FullName": "Ahmed Khaled",
+    "FullTourName": "Luxor & Aswan 3 Days Nile Cruise",
+    "EmailAddress": "ahmed.khaled@example.com",
+    "Message": "I would like to inquire more about the availability and full itinerary. Please send me all details.",
+    "CreatedAt": "2025-01-10T12:30:00Z",
+    "BookingDate": "2025-02-15T00:00:00Z",
+    "FK_TourId": 9
+  },
+  {
+    "AdultsNumber": 1,
+    "ChildernNumber": 0,
+    "FullName": "Sara Ibrahim",
+    "FullTourName": "Cairo Historical Day Tour",
+    "EmailAddress": "sara.ibrahim@example.com",
+    "Message": "Hello, I want to book this tour. Is hotel pickup included?",
+    "CreatedAt": "2025-01-12T09:22:00Z",
+    "BookingDate": "2025-01-20T00:00:00Z",
+    "FK_TourId": 5
+  },
+  {
+    "AdultsNumber": 4,
+    "ChildernNumber": 2,
+    "FullName": "Mohamed Adel",
+    "FullTourName": "Sharm El Sheikh Snorkeling Experience",
+    "EmailAddress": "mohamed.adel@example.com",
+    "Message": "Is there a family discount available for 6 persons?",
+    "CreatedAt": "2025-01-14T17:05:00Z",
+    "BookingDate": "2025-03-01T00:00:00Z",
+    "FK_TourId": 8
+  },
+  {
+    "AdultsNumber": 1,
+    "ChildernNumber": 0,
+    "FullName": "Lina Hassan",
+    "FullTourName": "Hurghada Dolphin House Trip",
+    "EmailAddress": "lina.hassan@example.com",
+    "Message": "Do you offer hotel transfer from Makadi Bay?",
+    "CreatedAt": "2025-01-18T14:10:00Z",
+    "BookingDate": "2025-01-18T14:10:00Z",
+    "FK_TourId": 4
+  },
+  {
+    "AdultsNumber": 3,
+    "ChildernNumber": 0,
+    "FullName": "Khaled Mousa",
+    "FullTourName": "Dubai Desert Safari",
+    "EmailAddress": "khaled.mousa@example.com",
+    "Message": "I want private trip price details.",
+    "CreatedAt": "2025-01-20T19:40:00Z",
+    "BookingDate": "2025-02-10T00:00:00Z",
+    "FK_TourId": 5
+  }
+]

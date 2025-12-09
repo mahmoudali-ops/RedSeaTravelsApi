@@ -1,0 +1,38 @@
+[
+  {
+    "TransferId": 1,
+    "Title": "Cairo Airport to Hotel",
+    "PrivtePrice": 35.00,
+    "SharedPrice": 15.00
+  },
+  {
+    "TransferId": 2,
+    "Title": "Luxor Hotel Shuttle",
+    "PrivtePrice": 25.00,
+    "SharedPrice": 10.00
+  },
+  {
+    "TransferId": 3,
+    "Title": "Aswan City to Nubian Village",
+    "PrivtePrice": 40.00,
+    "SharedPrice": 18.00
+  },
+  {
+    "TransferId": 4,
+    "Title": "Sharm El Sheikh Hotel to Marina",
+    "PrivtePrice": 30.00,
+    "SharedPrice": 12.00
+  },
+  {
+    "TransferId": 5,
+    "Title": "Hurghada Hotel to Dolphin House",
+    "PrivtePrice": 28.00,
+    "SharedPrice": 11.00
+  },
+  {
+    "TransferId": 6,
+    "Title": "Dubai Airport to Desert Safari Camp",
+    "PrivtePrice": 50.00,
+    "SharedPrice": 20.00
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "TourId": 9,
+    "Text": "Visit the Great Pyramids of Giza and the Sphinx."
+  },
+  {
+    "TourId": 9,
+    "Text": "Guided tour through the Egyptian Museum."
+  },
+  {
+    "TourId": 8,
+    "Text": "Explore Karnak Temple and Luxor Temple."
+  },
+  {
+    "TourId": 8,
+    "Text": "Visit the Valley of the Kings and Hatshepsut Temple."
+  },
+  {
+    "TourId": 7,
+    "Text": "Tour Philae Temple and learn about Nubian culture."
+  },
+  {
+    "TourId": 7,
+    "Text": "Relaxing boat trip on the Nile."
+  },
+  {
+    "TourId": 4,
+    "Text": "Snorkeling in the Red Sea coral reefs."
+  },
+  {
+    "TourId": 4,
+    "Text": "Professional equipment provided for all participants."
+  },
+  {
+    "TourId": 5,
+    "Text": "Swim with dolphins in their natural habitat."
+  },
+  {
+    "TourId": 5,
+    "Text": "Lunch provided on board."
+  },
+  {
+    "TourId": 6,
+    "Text": "Dune bashing and camel riding in the desert."
+  },
+  {
+    "TourId": 6,
+    "Text": "BBQ dinner under the stars with live entertainment."
+  }
+]

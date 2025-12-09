@@ -1,0 +1,29 @@
+[
+  {
+    "ReferenceName": "historical",
+    "Title": "Historical Tours",
+    "Description": "Explore ancient sites, temples, museums, and monumental attractions.",
+    "MetaDescription": "Historical guided tours including ancient sites and monuments.",
+    "MetaKeyWords": "history, monuments, ancient, temples",
+    "ImageCover": "images/categories/historical.jpg",
+    "IsActive": true
+  },
+  {
+    "ReferenceName": "adventure",
+    "Title": "Adventure Tours",
+    "Description": "Experience adrenaline activities, desert trips, hiking, and snorkeling.",
+    "MetaDescription": "Adventure trips including desert safari, mountains, and water sports.",
+    "MetaKeyWords": "adventure, safari, hiking, snorkeling",
+    "ImageCover": "images/categories/adventure.jpg",
+    "IsActive": true
+  },
+  {
+    "ReferenceName": "relaxation",
+    "Title": "Relaxation & Beach Tours",
+    "Description": "Enjoy premium relaxation trips including beaches, spa experiences, and calm resorts.",
+    "MetaDescription": "Relax and enjoy beach and resort tours.",
+    "MetaKeyWords": "beach, relax, resort, spa",
+    "ImageCover": "images/categories/relax.jpg",
+    "IsActive": true
+  }
+]

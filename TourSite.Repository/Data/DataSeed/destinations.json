@@ -1,0 +1,56 @@
+[
+  {
+    "ReferenceName": "cairo",
+    "Title": "Cairo",
+    "Description": "Discover the wonders of ancient Egypt, including the Pyramids of Giza and the Egyptian Museum.",
+    "ImageCover": "images/destinations/cairo.jpg",
+    "IsActive": true,
+    "MetaDescription": "Top attractions in Cairo including pyramids, museums, and historical sites.",
+    "MetaKeyWords": "cairo, egypt, pyramids, museum, history"
+  },
+  {
+    "ReferenceName": "luxor",
+    "Title": "Luxor",
+    "Description": "Explore the Valley of the Kings, ancient temples, and the heart of Egyptian civilization.",
+    "ImageCover": "images/destinations/luxor.jpg",
+    "IsActive": true,
+    "MetaDescription": "Luxor temples, Valley of the Kings, Karnak, and hot air balloon tours.",
+    "MetaKeyWords": "luxor, temples, valley of the kings, karnak"
+  },
+  {
+    "ReferenceName": "aswan",
+    "Title": "Aswan",
+    "Description": "Enjoy the Nubian culture, Nile islands, and breathtaking Nile sunset views.",
+    "ImageCover": "images/destinations/aswan.jpg",
+    "IsActive": true,
+    "MetaDescription": "Aswan attractions including Philae Temple, Nubian village, and Nile cruises.",
+    "MetaKeyWords": "aswan, nubian, philae temple, nile cruise"
+  },
+  {
+    "ReferenceName": "sharm",
+    "Title": "Sharm El Sheikh",
+    "Description": "A premium beach destination with coral reefs, diving spots, and resort life.",
+    "ImageCover": "images/destinations/sharm.jpg",
+    "IsActive": true,
+    "MetaDescription": "Best beaches and diving spots in Sharm El Sheikh.",
+    "MetaKeyWords": "sharm, diving, red sea, beaches, resorts"
+  },
+  {
+    "ReferenceName": "hurghada",
+    "Title": "Hurghada",
+    "Description": "Beautiful beaches, snorkeling adventures, and Red Sea marine life.",
+    "ImageCover": "images/destinations/hurghada.jpg",
+    "IsActive": true,
+    "MetaDescription": "Red Sea beaches, snorkeling, and resorts in Hurghada.",
+    "MetaKeyWords": "hurghada, snorkeling, red sea, resorts"
+  },
+  {
+    "ReferenceName": "dubai",
+    "Title": "Dubai",
+    "Description": "Modern luxury, skyscrapers, desert safaris, and top entertainment experiences.",
+    "ImageCover": "images/destinations/dubai.jpg",
+    "IsActive": true,
+    "MetaDescription": "Dubai attractions including Burj Khalifa, desert safari, and malls.",
+    "MetaKeyWords": "dubai, burj khalifa, safari, uae"
+  }
+]

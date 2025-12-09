@@ -1,0 +1,50 @@
+[
+  {
+    "TourId": 9,
+    "Text": "Lunch and beverages are not included."
+  },
+  {
+    "TourId": 8,
+    "Text": "Personal expenses and tips are not included."
+  },
+  {
+    "TourId": 7,
+    "Text": "Optional hot air balloon ride is not included."
+  },
+  {
+    "TourId": 6,
+    "Text": "Lunch and drinks are not included."
+  },
+  {
+    "TourId": 6,
+    "Text": "Personal souvenirs or shopping costs are not included."
+  },
+  {
+    "TourId": 5,
+    "Text": "Lunch is not included."
+  },
+  {
+    "TourId": 4,
+    "Text": "Food and drinks are not included."
+  },
+  {
+    "TourId": 4,
+    "Text": "Tips for guides are not included."
+  },
+  {
+    "TourId": 5,
+    "Text": "Transportation to hotel is not included."
+  },
+  {
+    "TourId": 5,
+    "Text": "Personal expenses are not included."
+  },
+  {
+    "TourId": 6,
+    "Text": "Optional desert quad bike rides are not included."
+  },
+  {
+    "TourId": 6,
+    "Text": "Drinks during BBQ are not included."
+  }
+]

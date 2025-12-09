@@ -1,0 +1,62 @@
+[
+  {
+    "ReferenceName": "cairo-airport-pickup",
+    "Title": "Cairo Airport Pickup",
+    "Description": "Private transfer from Cairo International Airport to your hotel.",
+    "MetaDescription": "Private airport transfer service in Cairo.",
+    "MetaKeyWords": "cairo, airport, transfer, pickup, private",
+    "ImageCover": "images/transfers/cairo-airport.jpg",
+    "IsActive": true,
+    "FK_DestinationID": 1
+  },
+  {
+    "ReferenceName": "luxor-hotel-shuttle",
+    "Title": "Luxor Hotel Shuttle",
+    "Description": "Daily shuttle service from major hotels to East and West Bank attractions.",
+    "MetaDescription": "Convenient shuttle service for Luxor sightseeing.",
+    "MetaKeyWords": "luxor, shuttle, hotel, transfer, sightseeing",
+    "ImageCover": "images/transfers/luxor-shuttle.jpg",
+    "IsActive": true,
+    "FK_DestinationID": 2
+  },
+  {
+    "ReferenceName": "aswan-nubian-transfer",
+    "Title": "Aswan Nubian Village Transfer",
+    "Description": "Private transportation from Aswan city to Nubian Village and Philae Temple.",
+    "MetaDescription": "Aswan private transfer to top attractions.",
+    "MetaKeyWords": "aswan, transfer, philae, nubian village, private",
+    "ImageCover": "images/transfers/aswan-transfer.jpg",
+    "IsActive": true,
+    "FK_DestinationID": 3
+  },
+  {
+    "ReferenceName": "sharm-marina-ride",
+    "Title": "Sharm Marina Ride",
+    "Description": "Transfer from your hotel to snorkeling and diving spots in Sharm El Sheikh.",
+    "MetaDescription": "Sharm El Sheikh private transfer service.",
+    "MetaKeyWords": "sharm, transfer, marina, diving, snorkeling",
+    "ImageCover": "images/transfers/sharm-transfer.jpg",
+    "IsActive": true,
+    "FK_DestinationID": 4
+  },
+  {
+    "ReferenceName": "hurghada-marina-ride",
+    "Title": "Hurghada Marina Ride",
+    "Description": "Comfortable transfer from hotels to Dolphin House and other Red Sea attractions.",
+    "MetaDescription": "Hurghada hotel transfer service.",
+    "MetaKeyWords": "hurghada, transfer, dolphin house, red sea",
+    "ImageCover": "images/transfers/hurghada-transfer.jpg",
+    "IsActive": true,
+    "FK_DestinationID": 5
+  },
+  {
+    "ReferenceName": "dubai-airport-desert",
+    "Title": "Dubai Airport to Desert Safari",
+    "Description": "Private transfer from Dubai Airport to your Desert Safari experience.",
+    "MetaDescription": "Dubai airport to desert safari transfer service.",
+    "MetaKeyWords": "dubai, transfer, desert safari, airport, private",
+    "ImageCover": "images/transfers/dubai-desert.jpg",
+    "IsActive": true,
+    "FK_DestinationID": 6
+  }
+]
